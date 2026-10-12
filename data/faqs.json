@@ -1,0 +1,72 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Orders and shipping",
+    "question": "How can I track my order?",
+    "answer": "Open your order confirmation email and select Track order. Tracking can take up to 24 hours to appear after dispatch.",
+    "keywords": ["tracking", "shipment", "delivery status", "where is my package", "courier", "dispatch"]
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Orders and shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping usually takes 3 to 5 business days after dispatch. Remote-area deliveries may take a little longer.",
+    "keywords": ["shipping time", "delivery estimate", "arrival", "business days", "express delivery"]
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "Unused items in their original packaging can be returned within 30 days of delivery. Start a return from your order page.",
+    "keywords": ["send back", "exchange", "return window", "refund", "eligible", "original packaging"]
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Refunds",
+    "question": "When will I receive my refund?",
+    "answer": "After we receive and inspect a return, refunds are issued to the original payment method within 5 to 7 business days.",
+    "keywords": ["money back", "refund status", "credit card", "processing time", "returned item"]
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Account access",
+    "question": "How do I reset my password?",
+    "answer": "Select Forgot password on the sign-in page and follow the secure reset link sent to your account email.",
+    "keywords": ["login", "sign in", "locked out", "change password", "reset link", "account access"]
+  },
+  {
+    "id": "FAQ-006",
+    "category": "Payments",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept major credit and debit cards, UPI, and supported digital wallets at checkout. Available options are shown before you place an order.",
+    "keywords": ["pay", "payment options", "upi", "visa", "mastercard", "wallet", "checkout"]
+  },
+  {
+    "id": "FAQ-007",
+    "category": "Orders",
+    "question": "Can I cancel or change an order?",
+    "answer": "Contact support as soon as possible with your order number. Orders that have already shipped cannot be changed or cancelled.",
+    "keywords": ["edit order", "modify", "cancel purchase", "change address", "stop shipment"]
+  },
+  {
+    "id": "FAQ-008",
+    "category": "Damaged or incorrect items",
+    "question": "What should I do if my item arrived damaged or incorrect?",
+    "answer": "Please contact support@example.com within 7 days of delivery with your order number and clear photos of the item and packaging.",
+    "keywords": ["broken", "wrong item", "defective", "damaged package", "missing parts", "replacement"]
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Billing",
+    "question": "Why was I charged twice?",
+    "answer": "One of the entries may be a temporary authorization that your bank will release, often within 3 to 5 business days. Contact support if both charges post.",
+    "keywords": ["duplicate charge", "double billed", "pending transaction", "card charged twice", "payment issue"]
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Contact support",
+    "question": "How can I contact customer support?",
+    "answer": "Email support@example.com with a short description of the issue. Include your order number when your question concerns a purchase.",
+    "keywords": ["help", "talk to an agent", "contact us", "customer service", "human", "support email"]
+  }
+]
